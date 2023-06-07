@@ -22,6 +22,9 @@
     justify-content: space-around;
     align-items: center;
 }
+.head h1{
+    color: red;
+}
 
 .line {
     width: 100vw;
