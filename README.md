@@ -1,0 +1,2 @@
+# ColorFlipper
+Auto color generater
